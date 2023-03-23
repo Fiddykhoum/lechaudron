@@ -1,0 +1,2 @@
+J'ai modifier la div ayant la classe class="divContent" sur chaques pasge
+verifier si ça pose des problèmes

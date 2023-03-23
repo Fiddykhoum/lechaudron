@@ -5,7 +5,6 @@ html, body {
   background-size: 100%; 
 }
 header {
-  /* rgba(240, 233, 210, 0.3); */
   background-color: rgba(227, 197, 99, 0.3);
   height: 230px;
   border: 2px solid rgba(180, 180, 180, 0.4);  
@@ -14,8 +13,8 @@ header {
   z-index: 1;
   width: auto;
   height: 200px;
-  animation: 3s ease infinite alternate logoMov ;
-}
+  /* animation: 3s ease infinite alternate logoMov ; */
+} 
 nav {
   text-align: center;
 }
@@ -70,6 +69,8 @@ content a {
 }
 .divContent{
   width: 80%;
+  color: whitesmoke;
+  font-size: 1.5rem;
 }
 p {
   font-size: 1.5rem;
